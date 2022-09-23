@@ -1,3 +1,39 @@
 {
-  
+  "hotels": [
+    {
+      "id": "1",
+      "price": "120000",
+      "category": "family"
+    },
+    {
+      "id": "2",
+      "price": "10000",
+      "category": "deluxe"
+    },
+    {
+      "id": "3",
+      "price": "20000",
+      "category": "family"
+    },
+    {
+      "id": "4",
+      "price": "120000",
+      "category": "general"
+    },
+    {
+      "id": "5",
+      "price": "120000",
+      "category": "family"
+    },
+    {
+      "id": "6",
+      "price": "120000",
+      "category": "deluxe"
+    },
+    {
+      "id": "7",
+      "price": "120000",
+      "category": "family"
+    }
+  ]
 }
